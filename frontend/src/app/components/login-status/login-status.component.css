@@ -1,0 +1,35 @@
+.security-btn {
+    position:relative;
+    right: 0;
+    min-width:90px;
+    margin: 2px;
+    color:#fff;
+    border:1px solid #205b8d;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    border-radius:4px;
+    background:#205b8d
+}
+
+.login-status-header {
+    max-width: 370px;
+    display:-webkit-box;
+    display:-webkit-flex;
+    display:-moz-box;
+    display:-ms-flexbox;
+    display:flex
+}
+
+.login-status-user-info {
+    line-height:15px;
+    border:1px;
+    color:#666;
+    padding:0 5px;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    border-radius:3px;
+    -webkit-transition:all .5s ease;
+    -o-transition:all .5s ease;
+    -moz-transition:all .5s ease;
+    transition:all .5s ease
+}
